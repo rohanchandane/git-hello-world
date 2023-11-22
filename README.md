@@ -1,2 +1,2 @@
-# git-hellow-world
+# git-hello-world
 testing git commands
